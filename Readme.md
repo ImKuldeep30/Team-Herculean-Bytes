@@ -1,5 +1,5 @@
 # **Human Detection with WiFi CSI**
-## Detect human presence and movement in indoor environments using WiFi Channel State  Information (CSI), without rellying on cameras or wearable devices 
+## Detect human presence and movement in indoor environments using WiFi Channel State  Information (CSI), without relying on cameras or wearable devices 
 
 Traditional indoor monitoring systems rely on cameras and sensors, which raise privacy concerns, require line of sight, and increase hardware cost. There is a need for a privacy-preserving, low-cost indoor sensing system.
 
